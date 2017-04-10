@@ -1,6 +1,9 @@
 <?php
+namespace Atyantik\Mozscape\Services;
+use Atyantik\Mozscape\Authentication\Authenticator;
+
 /**
- * abstract class for services
+ * abstract class for Services
  *
  * @package Service
  * @author SEOmoz
@@ -9,7 +12,7 @@ abstract class AbstractService {
 
 	private $authenticator;
 
-	public function __construct($authenticator) {
+	public function __construct(Authenticator $authenticator) {
 		$this->authenticator = $authenticator;
 	}
 

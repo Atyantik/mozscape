@@ -15,12 +15,10 @@
   "require": {
     "php": ">=5.5.9"
   },
-  "require-dev": {
-    "phpunit/phpunit": "4.0.*"
-  },
+  "require-dev": {},
   "autoload": {
     "psr-4": {
-      "PhilipBrown\\Nacho\\": "src"
+      "Atyantik\\Mozscape\\": "src"
     }
   },
   "minimum-stability": "dev"
