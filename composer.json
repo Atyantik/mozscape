@@ -1,7 +1,9 @@
 {
   "name": "atyantik/mozscape",
   "license": "MIT",
-  "keywords": ["mozscape"],
+  "keywords": [
+    "mozscape"
+  ],
   "version": "dev-master",
   "description": "Moz Api",
   "authors": [
@@ -10,7 +12,9 @@
       "email": "chiragpatel@atyantik.com"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">=5.5.9"
+  },
   "require-dev": {
     "phpunit/phpunit": "4.0.*"
   },
