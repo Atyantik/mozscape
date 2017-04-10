@@ -2,16 +2,20 @@
   "name": "atyantik/mozscape",
   "version": "dev-master",
   "description": "Moz Api",
-  "license":"mit",
+  "license": "mit",
   "authors": [
     {
       "name": "Chirag Patel",
       "email": "chiragpatel@atyantik.com"
     }
   ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
   "autoload": {
     "psr-4": {
-      "Atyantik\\Mozscape\\": "src"
+      "PhilipBrown\\Nacho\\": "src"
     }
   },
   "minimum-stability": "dev"
