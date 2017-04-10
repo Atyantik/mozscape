@@ -1,8 +1,9 @@
 {
   "name": "atyantik/mozscape",
+  "license": "MIT",
+  "keywords": ["mozscape"],
   "version": "dev-master",
   "description": "Moz Api",
-  "license": "mit",
   "authors": [
     {
       "name": "Chirag Patel",
