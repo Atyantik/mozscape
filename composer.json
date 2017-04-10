@@ -1,0 +1,18 @@
+{
+  "name": "atyantik/mozscape",
+  "version": "dev-master",
+  "description": "Moz Api",
+  "license":"mit",
+  "authors": [
+    {
+      "name": "Chirag Patel",
+      "email": "chiragpatel@atyantik.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Atyantik\\Mozscape\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
