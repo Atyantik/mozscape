@@ -2,6 +2,8 @@
 
 namespace Atyantik\Mozscape\Services;
 
+use Atyantik\Mozscape\Utilities\ConnectionUtility;
+
 /**
  *
  * Service class to call the various methods to
