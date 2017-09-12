@@ -14,7 +14,7 @@ use Atyantik\Mozscape\Utilities\ConnectionUtility;
  * @author SEOmoz
  *
  */
-class URLMetricsService extends AbstractService
+class UrlMetricsService extends AbstractService
 {
     /**
      *

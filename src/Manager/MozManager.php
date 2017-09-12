@@ -3,7 +3,7 @@
 namespace Atyantik\Mozscape\Manager;
 use Atyantik\Mozscape\Authentication\Authenticator;
 use Atyantik\Mozscape\Services\LinksService;
-use Atyantik\Mozscape\Services\URLMetricsService;
+use Atyantik\Mozscape\Services\UrlMetricsService;
 
 /**
  * Created by PhpStorm.
