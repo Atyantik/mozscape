@@ -38,7 +38,7 @@ class MozManager
 
     public function urlMetricsServiceData($url, $options=[])
     {
-        $service = new URLMetricsService($this->authenticator);
+        $service = new UrlMetricsService($this->authenticator);
         $response = $service->getUrlMetrics($url, $options);
         return $response;
     }
